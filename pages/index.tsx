@@ -20,7 +20,7 @@ const About: NextPage = () => {
     <main className="flex flex-col flex-grow px-6 pt-1 ">
       <h1 className="my-3 text-base font-medium">
         I am currently pursuing English Literature from Govt. Hazi Muhammad Mohsin College . I have 2+ years of experience in
-        Web Development and I have a IT Institute where I teach.
+        Web Development and <a href="http://www.totalinfotech.ga">IT Flatform</a> where I teach and provide service....
       </h1>
       <div
         className="flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-100 "
