@@ -21,7 +21,7 @@ const About: NextPage = () => {
       <h1 className="my-3 text-base font-medium">
         I am currently pursuing English Literature from Govt. Hazi Muhammad Mohsin College . I have 2+ years of experience in
         Web Development and 
-        <a href="http://www.totalinfotech.ga">IT Flatform</a> 
+        <a className="text-blue-600" href="http://www.totalinfotech.ga">IT Flatform</a> 
         where I teach and provide service....
       </h1>
       <div
